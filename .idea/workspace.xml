@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b5f0851-a259-4e56-a18f-a1e0b5eab31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/TodoForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/TodosContext.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593701687301</updated>
-      <workItem from="1593701699376" duration="1553000" />
+      <workItem from="1593701699376" duration="2517000" />
     </task>
     <servers />
   </component>
@@ -83,5 +72,21 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1107" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593702197916" />
+    <state width="905" height="260" key="GridCell.Tab.0.bottom" timestamp="1593706962880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="905" height="260" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593706962880" />
+    <state width="905" height="260" key="GridCell.Tab.0.center" timestamp="1593706962880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="905" height="260" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593706962880" />
+    <state width="905" height="260" key="GridCell.Tab.0.left" timestamp="1593706962880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="905" height="260" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593706962880" />
+    <state width="905" height="260" key="GridCell.Tab.0.right" timestamp="1593706962880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="905" height="260" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593706962880" />
   </component>
 </project>
